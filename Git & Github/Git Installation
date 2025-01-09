@@ -13,19 +13,6 @@ Output Example:
 git version 2.x.x
 
 
-4. Generate SSH Key (Optional, for Authentication with GitHub)
-
-Generate an SSH key:
-
-ssh-keygen -t rsa -b 4096 -C "your.email@example.com"
-
-When prompted, press Enter to use the default file location.
-
-Copy the SSH key to your clipboard:
-
-clip < ~/.ssh/id_rsa.pub
-
-Add the SSH key to your GitHub account under Settings > SSH and GPG Keys.
 
 5. Initialize a Git Repository
 Navigate to your project folder:
