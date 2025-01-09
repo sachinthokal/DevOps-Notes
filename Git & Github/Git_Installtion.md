@@ -1,8 +1,10 @@
 # Initialize a Git Repository
 
+Navigate to your project folder:
+
 ```bash
 
---> cd path/to/your/project         # Navigate to your project folder:
+cd path/to/your/project
 
 ```
 
