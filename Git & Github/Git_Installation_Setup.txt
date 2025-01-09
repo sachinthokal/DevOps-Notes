@@ -12,23 +12,6 @@ Output Example:
 
 git version 2.x.x
 
-3. Configure Git
-
-You need to set up your username and email, which will be associated with your commits.
-
-Set username & email:
-
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
-
-Verify the configuration:
-
-git config --list
-
-Output Example:
-
-user.name=Your Name
-user.email=your.email@example.com
 
 4. Generate SSH Key (Optional, for Authentication with GitHub)
 
