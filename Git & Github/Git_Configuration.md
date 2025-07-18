@@ -10,6 +10,14 @@ git config --global user.email "your.email@example.com"
 git config --list
 
 ```
+# Example
+```bash
+
+git config --global user.name "sachinthokal"
+git config --global user.email "sachinthokal1799@gmail.com"
+git config --list
+
+```
 
 Output Example:
 
